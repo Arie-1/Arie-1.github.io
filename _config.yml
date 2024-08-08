@@ -10,17 +10,17 @@ blog_theme: dark # Or use dark
 
 # Profile information
 name: Arie-1
-tagline: Full Stack Developer
-about-description: # Add Discription
-pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+tagline: limbus company player 
+about-description: asdadasdasdasdasdasdasas # Add Discription
+pic: 03.png  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
-email: artemsheludko@tuta.io # Add your Email address
-phone: 044 825 5523 # Add your Phone number
+email: yofireboy@gmial.com # Add your Email address
+phone: 010-9536-6685 # Add your Phone number
 website: artemsheludko.pw # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+github: https://github.com/Arie-1 # Add your Github handle
+instagram: '@derehan0506' # Add your Twitter handle
 
 # Tracker
 analytics:
